@@ -34,6 +34,7 @@ https://sqitch.org/
 mac users can use brew 
 
 ```
+brew tap sqitchers/sqitch
 brew install sqitch --with-postgres-support --without-postgresql
 ```
 
